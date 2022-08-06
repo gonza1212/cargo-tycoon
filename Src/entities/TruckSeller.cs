@@ -62,7 +62,8 @@ namespace cargoTycoon
                 Globals.spriteBatch.DrawString(Globals.content.Load<SpriteFont>("File"), "Camion seleccionado: " + truckSelected, new Vector2(pos.X + 320, pos.Y + 80), Color.Black);
                 Globals.spriteBatch.DrawString(Globals.content.Load<SpriteFont>("File"), "Marca: " + trucks[truckSelected].Brand(), new Vector2(pos.X + 320, pos.Y + 100), Color.Black);
                 Globals.spriteBatch.DrawString(Globals.content.Load<SpriteFont>("File"), "Modelo: " + trucks[truckSelected].Model(), new Vector2(pos.X + 320, pos.Y + 120), Color.Black);
-                Globals.spriteBatch.DrawString(Globals.content.Load<SpriteFont>("File"), "Precio: $ " + trucks[truckSelected].Price(), new Vector2(pos.X + 320, pos.Y + 140), Color.Black);
+                Globals.spriteBatch.DrawString(Globals.content.Load<SpriteFont>("File"), "Arrastre: " + trucks[truckSelected].DragCapacity() + "Kg.", new Vector2(pos.X + 320, pos.Y + 140), Color.Black);
+                Globals.spriteBatch.DrawString(Globals.content.Load<SpriteFont>("File"), "Precio: $" + trucks[truckSelected].Price(), new Vector2(pos.X + 320, pos.Y + 160), Color.Black);
             }
         }
 

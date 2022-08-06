@@ -35,6 +35,8 @@ namespace cargoTycoon
         {
             // draw current state
             currentState.Draw();
+            // debug (desp esto seria solo con f3)
+            currentState.DebugDraw();
         }
     }
 }

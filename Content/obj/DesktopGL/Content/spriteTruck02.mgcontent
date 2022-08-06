@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck02.png</SourceFile>
-  <SourceTime>2022-07-27T17:34:23.4528855-03:00</SourceTime>
+  <SourceTime>2022-08-03T12:50:56.1273641-03:00</SourceTime>
   <DestFile>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/bin/DesktopGL/Content/spriteTruck02.xnb</DestFile>
-  <DestTime>2022-07-30T09:10:31.6564698-03:00</DestTime>
+  <DestTime>2022-08-03T12:53:37.5170405-03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T13:17:54-03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

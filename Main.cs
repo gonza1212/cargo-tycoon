@@ -7,11 +7,11 @@ namespace cargoTycoon
 {
     public class Main : Game
     {
-        private GraphicsDeviceManager _graphics;
         private StatesManager sm;
 
         public Main()
         {
+            GraphicsDeviceManager _graphics;
             _graphics = new GraphicsDeviceManager(this);
             // Configurar ventana a 1280*720
             if (GraphicsDevice == null)
@@ -31,6 +31,7 @@ namespace cargoTycoon
             // cosas necesarias
             Globals.content = this.Content;
             Globals.spriteBatch = new SpriteBatch(GraphicsDevice);
+            Globals.graphics = _graphics;
             sm = new StatesManager();
         }
 

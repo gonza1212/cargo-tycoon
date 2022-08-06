@@ -49,3 +49,17 @@ C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\sprite
 C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\truck00.xnb
 C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\truck01.xnb
 C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\truck02.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\buttonCity.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\buttonFinishRoutePlan.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\buttonFinishRoutePlanHover.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\bgAvalaibleCargo.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\bgAvalaibleCargoHover.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\totalWeight.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\truckMiniOverworld.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\totalWeightExceded.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\buttonShipment.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\buttonShipmentHover.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\spriteTruck00InTravel.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\spriteTruck01InTravel.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\spriteTruck02InTravel.xnb
+C:\Users\Gonzalo\source\repos\cargoTycoon\bin\Debug\netcoreapp3.1\Content\bgMapMenu.xnb

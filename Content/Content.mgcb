@@ -25,6 +25,42 @@
 /processorParam:TextureFormat=Color
 /build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bg0.png;bg0.png
 
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgAvalaibleCargo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgAvalaibleCargo.png;bgAvalaibleCargo.png
+
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgAvalaibleCargoHover.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgAvalaibleCargoHover.png;bgAvalaibleCargoHover.png
+
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgMapMenu.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgMapMenu.png;bgMapMenu.png
+
 #begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgTruckMenu.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -145,6 +181,18 @@
 /processorParam:TextureFormat=Color
 /build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonCargoHover.png;buttonCargoHover.png
 
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonCity.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonCity.png;buttonCity.png
+
 #begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonCreateRoutePlan.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -193,6 +241,30 @@
 /processorParam:TextureFormat=Color
 /build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonExclamationHover.png;buttonExclamationHover.png
 
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonFinishRoutePlan.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonFinishRoutePlan.png;buttonFinishRoutePlan.png
+
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonFinishRoutePlanHover.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonFinishRoutePlanHover.png;buttonFinishRoutePlanHover.png
+
 #begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonMap.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -216,6 +288,30 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonMapHover.png;buttonMapHover.png
+
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonShipment.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonShipment.png;buttonShipment.png
+
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonShipmentHover.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonShipmentHover.png;buttonShipmentHover.png
 
 #begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonTruck.png
 /importer:TextureImporter
@@ -260,6 +356,18 @@
 /processorParam:TextureFormat=Color
 /build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/map.png;map.png
 
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/map.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/map.png;map.png
+
 #begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck00.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -271,6 +379,18 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck00.png;spriteTruck00.png
+
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck00InTravel.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck00InTravel.png;spriteTruck00InTravel.png
 
 #begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck01.png
 /importer:TextureImporter
@@ -284,6 +404,18 @@
 /processorParam:TextureFormat=Color
 /build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck01.png;spriteTruck01.png
 
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck01InTravel.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck01InTravel.png;spriteTruck01InTravel.png
+
 #begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck02.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -295,6 +427,42 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck02.png;spriteTruck02.png
+
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck02InTravel.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck02InTravel.png;spriteTruck02InTravel.png
+
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/totalWeight.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/totalWeight.png;totalWeight.png
+
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/totalWeightExceded.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/totalWeightExceded.png;totalWeightExceded.png
 
 #begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/truck00.png
 /importer:TextureImporter
@@ -331,4 +499,16 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/truck02.png;truck02.png
+
+#begin ../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/truckMiniOverworld.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/truckMiniOverworld.png;truckMiniOverworld.png
 

@@ -5,6 +5,9 @@
   <Config />
   <SourceFiles>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bg0.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgAvalaibleCargo.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgAvalaibleCargoHover.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgMapMenu.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgTruckMenu.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgTruckSelected.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/bgTruckSeller.png</File>
@@ -15,25 +18,39 @@
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonCancelHover.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonCargo.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonCargoHover.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonCity.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonCreateRoutePlan.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonCreateRoutePlanHover.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonExclamation.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonExclamationHover.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonFinishRoutePlan.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonFinishRoutePlanHover.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonMap.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonMapHover.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonShipment.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonShipmentHover.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonTruck.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/buttonTruckHover.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/File.spritefont</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/map.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck00.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck00InTravel.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck01.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck01InTravel.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck02.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/spriteTruck02InTravel.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/totalWeight.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/totalWeightExceded.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/truck00.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/truck01.png</File>
     <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/truck02.png</File>
+    <File>C:/Users/Gonzalo/source/repos/cargoTycoon/Content/../../../../Mi unidad/Juegos/Ideas/gestion de transporte 2d/resources/truckMiniOverworld.png</File>
   </SourceFiles>
   <DestFiles>
     <File>bg0.png</File>
+    <File>bgAvalaibleCargo.png</File>
+    <File>bgAvalaibleCargoHover.png</File>
+    <File>bgMapMenu.png</File>
     <File>bgTruckMenu.png</File>
     <File>bgTruckSelected.png</File>
     <File>bgTruckSeller.png</File>
@@ -44,21 +61,32 @@
     <File>buttonCancelHover.png</File>
     <File>buttonCargo.png</File>
     <File>buttonCargoHover.png</File>
+    <File>buttonCity.png</File>
     <File>buttonCreateRoutePlan.png</File>
     <File>buttonCreateRoutePlanHover.png</File>
     <File>buttonExclamation.png</File>
     <File>buttonExclamationHover.png</File>
+    <File>buttonFinishRoutePlan.png</File>
+    <File>buttonFinishRoutePlanHover.png</File>
     <File>buttonMap.png</File>
     <File>buttonMapHover.png</File>
+    <File>buttonShipment.png</File>
+    <File>buttonShipmentHover.png</File>
     <File>buttonTruck.png</File>
     <File>buttonTruckHover.png</File>
     <File>File.spritefont</File>
     <File>map.png</File>
     <File>spriteTruck00.png</File>
+    <File>spriteTruck00InTravel.png</File>
     <File>spriteTruck01.png</File>
+    <File>spriteTruck01InTravel.png</File>
     <File>spriteTruck02.png</File>
+    <File>spriteTruck02InTravel.png</File>
+    <File>totalWeight.png</File>
+    <File>totalWeightExceded.png</File>
     <File>truck00.png</File>
     <File>truck01.png</File>
     <File>truck02.png</File>
+    <File>truckMiniOverworld.png</File>
   </DestFiles>
 </SourceFileCollection>

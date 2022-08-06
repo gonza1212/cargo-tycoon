@@ -30,6 +30,11 @@ namespace cargoTycoon
             this.money -= amount;
         }
 
+        public void addMoney(int amount)
+        {
+            this.money += amount;
+        }
+
         public void AddTruck(Truck t)
         {
             this.trucks.Add(t);

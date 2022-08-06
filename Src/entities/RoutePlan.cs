@@ -6,11 +6,17 @@ namespace cargoTycoon
 {
     class RoutePlan
     {
+        private int id;
         private List<Tract> tracts;
 
-        public RoutePlan()
+        public RoutePlan(int id, List<Tract> tracts)
         {
+            this.id = id;
             this.tracts = new List<Tract>();
+            for (int i = 0; i < tracts.Count; i++)
+            {
+                this.tracts.Add(tracts[i]);
+            }
         }
 
         public void AddTract(Tract t)
@@ -21,22 +27,6 @@ namespace cargoTycoon
         public List<Tract> Tracts()
         {
             return tracts;
-        }
-
-        public string Origin()
-        {
-            if (tracts.Count > 0)
-                return tracts[0].Origin();
-            else
-                return "Plan de ruta vacío";
-        }
-
-        public string Destination()
-        {
-            if (tracts.Count > 0)
-                return tracts[tracts.Count - 1].Destination();
-            else
-                return "Plan de ruta vacío";
         }
 
         public int TotalDistance()

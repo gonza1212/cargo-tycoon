@@ -12,5 +12,6 @@ namespace cargoTycoon
     {
         public static ContentManager content;
         public static SpriteBatch spriteBatch;
+        public static GraphicsDeviceManager graphics;
     }
 }
